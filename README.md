@@ -10,7 +10,25 @@ NeetworkEngineerSato
 
 ## React
 
+### material
+
+redux-toolkit.html
+
+<https://note.yuuniworks.com/study/redux-toolkit.html>
+
+createEntityAdapter
+
+<https://redux-toolkit.js.org/api/createEntityAdapter>
+
+### lib
+
 <https://formik.org/>
+
+## JavaScript
+
+### JavaScript Promise の本
+
+<https://azu.github.io/promises-book/>
 
 ## winget
 
