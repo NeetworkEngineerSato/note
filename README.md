@@ -121,7 +121,11 @@ tsyringe
 
 ## JavaScript
 
-### JavaScript Promise の本
+JavaScript Primer
+
+<https://jsprimer.net/>
+
+JavaScript Promise の本
 
 <https://azu.github.io/promises-book/>
 
@@ -159,6 +163,12 @@ winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id calibre.calibre
 winget install -e --id Adobe.Acrobat.Reader.64-bit
 ```
+
+## 文章
+
+伝わるデザイン
+
+<https://tsutawarudesign.com/>
 
 ## OCW
 
