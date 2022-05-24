@@ -81,13 +81,33 @@ magick *.png -layers merge out.png
 
 ### material
 
-redux-toolkit.html
+Redux - Toolkit
 
 <https://note.yuuniworks.com/study/redux-toolkit.html>
 
-createEntityAdapter
+createEntityAdapter 公式
 
 <https://redux-toolkit.js.org/api/createEntityAdapter>
+
+createEntityAdapter 公式 TS
+
+<https://redux-toolkit.js.org/usage/usage-with-typescript#createentityadapter>
+
+Nested createEntityAdapter example
+
+<https://gist.github.com/markerikson/ad319fd7b04bd4eecdcfe7bf51dce7b1>
+
+Redux how to use createEntityAdapter on a nested property?
+
+<https://stackoverflow.com/questions/64269690/redux-how-to-use-createentityadapter-on-a-nested-property>
+
+createEntityAdapter demo
+
+<https://sandbox-redux-toolkit-create-entity-adapter.vercel.app/>
+
+state 正規化メリット
+
+<https://tech.stmn.co.jp/entry/2021/06/24/163309#:~:text=%E9%A0%86%E5%BA%8F%E3%82%92%E7%A4%BA%E3%81%99-,%E6%AD%A3%E8%A6%8F%E5%8C%96%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88,-%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AF>
 
 ## TypeScript
 
@@ -112,6 +132,8 @@ DI
 <https://ja.wikipedia.org/wiki/Google_Guice>
 
 ## winget
+
+winget install -e --id Adobe.Acrobat.Reader.64-bit
 
 ```text
 "PackageIdentifier" : "Amazon.Music"
@@ -139,3 +161,9 @@ DI
 "PackageIdentifier" : "calibre.calibre"
 "PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
 ```
+
+## OCW
+
+サイボウズ 2021 年のエンジニア新人研修の講義資料を公開しました
+
+<https://blog.cybozu.io/entry/2021/07/20/100000>
