@@ -14,6 +14,54 @@ NeetworkEngineerSato
 78856616+NeetworkEngineerSato@users.noreply.github.com
 ```
 
+## 書籍自炊
+
+Imagemagick + PowerShell
+
+透過処理チェック
+
+```text
+1..100 | ForEach-Object { magick 1.jpg -fuzz $_% -transparent white "transparent[${_}].png" ; Write-Progress " " -Status $_ }
+```
+
+画像重ね合わせ ファイルサイズ 6-7mb が上限
+
+```text
+magick -size 1x1 xc:none out.png; Get-ChildItem -Filter *.jpg | ForEach-Object { magick out.png $_.name -fuzz 10% -transparent white -layers merge out.png ; Write-Progress " " -Status $_ }
+```
+
+保存サイズチェック用
+
+```text
+1..100 | ForEach-Object { magick 1.jpg -quality $_ "quality[${_}].jpg" ; Write-Progress " " -Status $_ }
+```
+
+```text
+
+# ----------------------------------------
+# メモリ大量消費
+magick *.jpg -fuzz 5% -transparent white -layers merge out.png
+
+magick -size 1x1 xc:none out.png;
+
+# ----------------------------------------
+1..100 | ForEach-Object { Write-Progress " " -Status $_% ; Start-Sleep -Milliseconds 100 }
+
+; Write-Progress " " -Status $_%
+
+# メモリ使用 50:2.1G(6mb) 100:4.2G(6mb) 200:8.4G
+magick %03d.jpg[1-200] -fuzz 10% -transparent white -layers merge out.png
+
+mogrify -fuzz 5% -transparent white -format png *.jpg
+
+magick .\001.png .\002.png -composite .\003.png -composite out.png
+
+magick *.png -layers merge out.png
+
+1..100 | ForEach-Object { Write-Progress " " -Status $_% -SecondsRemaining (100 - $_) ; Start-Sleep -Milliseconds 100 }
+( (Get-Date).Ticks - $a) / 10000000
+```
+
 ## React
 
 ### material
