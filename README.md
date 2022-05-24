@@ -136,30 +136,28 @@ DI
 winget install -e --id Adobe.Acrobat.Reader.64-bit
 
 ```text
-"PackageIdentifier" : "Amazon.Music"
-"PackageIdentifier" : "Amazon.Kindle"
-"PackageIdentifier" : "Canonical.Ubuntu"
-"PackageIdentifier" : "Docker.DockerDesktop"
-"PackageIdentifier" : "GIMP.GIMP"
-"PackageIdentifier" : "GOMLab.GOMPlayer"
-"PackageIdentifier" : "Git.Git"
-"PackageIdentifier" : "Google.Chrome"
-"PackageIdentifier" : "IrfanSkiljan.IrfanView"
-"PackageIdentifier" : "Microsoft.Edge"
-"PackageIdentifier" : "Mozilla.Thunderbird"
-"PackageIdentifier" : "Meltytech.Shotcut"
-"PackageIdentifier" : "Atlassian.Sourcetree"
-"PackageIdentifier" : "VideoLAN.VLC"
-"PackageIdentifier" : "Twilio.Authy"
-"PackageIdentifier" : "ALCPU.CoreTemp"
-"PackageIdentifier" : "Google.JapaneseIME"
-"PackageIdentifier" : "TheDocumentFoundation.LibreOffice"
-"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
-"PackageIdentifier" : "Microsoft.PowerShell"
-"PackageIdentifier" : "OpenJS.NodeJS.LTS"
-"PackageIdentifier" : "Microsoft.VisualStudioCode"
-"PackageIdentifier" : "calibre.calibre"
-"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
+winget install -e --id Amazon.Kindle
+winget install -e --id Canonical.Ubuntu
+winget install -e --id Docker.DockerDesktop
+winget install -e --id GIMP.GIMP
+winget install -e --id GOMLab.GOMPlayer
+winget install -e --id Git.Git
+winget install -e --id Google.Chrome
+winget install -e --id IrfanSkiljan.IrfanView
+winget install -e --id Microsoft.Edge
+winget install -e --id Mozilla.Thunderbird
+winget install -e --id Meltytech.Shotcut
+winget install -e --id Atlassian.Sourcetree
+winget install -e --id VideoLAN.VLC
+winget install -e --id Twilio.Authy
+winget install -e --id ALCPU.CoreTemp
+winget install -e --id Google.JapaneseIME
+winget install -e --id TheDocumentFoundation.LibreOffice
+winget install -e --id Microsoft.PowerShell
+winget install -e --id OpenJS.NodeJS.LTS
+winget install -e --id Microsoft.VisualStudioCode
+winget install -e --id calibre.calibre
+winget install -e --id Adobe.Acrobat.Reader.64-bit
 ```
 
 ## OCW
