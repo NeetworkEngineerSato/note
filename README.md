@@ -20,6 +20,12 @@ createEntityAdapter
 
 <https://redux-toolkit.js.org/api/createEntityAdapter>
 
+## TypeScript
+
+### DI
+
+tsyringe
+
 ### lib
 
 <https://formik.org/>
@@ -29,6 +35,12 @@ createEntityAdapter
 ### JavaScript Promise の本
 
 <https://azu.github.io/promises-book/>
+
+### Java
+
+DI
+
+<https://ja.wikipedia.org/wiki/Google_Guice>
 
 ## winget
 
