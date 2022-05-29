@@ -7,6 +7,18 @@ https://github.com/NeetworkEngineerSato/note.git
 ```
 
 ```text
+git init
+git config --local user.name "NeetworkEngineerSato"
+git config --local user.email 78856616+NeetworkEngineerSato@users.noreply.github.com
+git config core.autocrlf false
+git commit --allow-empty -m "first commit"
+git branch -m main
+git branch develop
+git branch draft
+git checkout draft
+```
+
+```text
 NeetworkEngineerSato
 ```
 
