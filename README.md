@@ -142,6 +142,10 @@ JavaScript Promise の本
 
 <https://azu.github.io/promises-book/>
 
+マンガでわかる JavaScript の Promise
+
+<https://www.amazon.co.jp/dp/B09XQ89M9Y>
+
 ## Java
 
 DI
