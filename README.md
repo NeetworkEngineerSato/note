@@ -128,6 +128,10 @@ form バリデーション
 
 ## TypeScript
 
+型ガードで (string | undifined) を string にする
+
+<https://zenn.dev/lollipop_onl/articles/eoz-ts-non-nullable>
+
 ### DI
 
 tsyringe
