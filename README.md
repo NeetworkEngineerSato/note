@@ -132,6 +132,10 @@ form バリデーション
 
 <https://zenn.dev/lollipop_onl/articles/eoz-ts-non-nullable>
 
+サバイバル TypeScript
+
+<https://typescriptbook.jp/>
+
 ### DI
 
 tsyringe
@@ -196,3 +200,16 @@ winget install -e --id Adobe.Acrobat.Reader.64-bit
 サイボウズ 2021 年のエンジニア新人研修の講義資料を公開しました
 
 <https://blog.cybozu.io/entry/2021/07/20/100000>
+
+## acrobat 設定
+
+一般
+adobe acrobat 起動メッセージ
+
+文書
+文書を再び
+メニューバー　ツールバー
+ツールパネルの現在
+
+一般
+タッチモード　常時
