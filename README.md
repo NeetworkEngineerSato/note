@@ -114,7 +114,7 @@ Redux how to use createEntityAdapter on a nested property?
 
 Redux Style Guide
 
-https://redux.js.org/style-guide/
+<https://redux.js.org/style-guide/>
 
 ### lib
 
