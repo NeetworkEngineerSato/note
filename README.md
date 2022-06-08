@@ -169,9 +169,7 @@ winget install -e --id GOMLab.GOMPlayer
 winget install -e --id Git.Git
 winget install -e --id Google.Chrome
 winget install -e --id IrfanSkiljan.IrfanView
-winget install -e --id Microsoft.Edge
 winget install -e --id Mozilla.Thunderbird
-winget install -e --id Meltytech.Shotcut
 winget install -e --id Atlassian.Sourcetree
 winget install -e --id VideoLAN.VLC
 winget install -e --id Twilio.Authy
@@ -184,6 +182,8 @@ winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id calibre.calibre
 winget install -e --id Adobe.Acrobat.Reader.64-bit
 ```
+
+winget install -e --id Meltytech.Shotcut
 
 ## 文章
 
