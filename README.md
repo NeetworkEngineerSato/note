@@ -112,13 +112,9 @@ Redux how to use createEntityAdapter on a nested property?
 
 <https://stackoverflow.com/questions/64269690/redux-how-to-use-createentityadapter-on-a-nested-property>
 
-createEntityAdapter demo
+Redux Style Guide
 
-<https://sandbox-redux-toolkit-create-entity-adapter.vercel.app/>
-
-state 正規化メリット
-
-<https://tech.stmn.co.jp/entry/2021/06/24/163309#:~:text=%E9%A0%86%E5%BA%8F%E3%82%92%E7%A4%BA%E3%81%99-,%E6%AD%A3%E8%A6%8F%E5%8C%96%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88,-%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AF>
+https://redux.js.org/style-guide/
 
 ### lib
 
