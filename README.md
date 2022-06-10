@@ -209,3 +209,7 @@ adobe acrobat 起動メッセージ
 
 一般
 タッチモード　常時
+
+## 偶然の科学の累積的優位のやつ
+
+<https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf>
