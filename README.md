@@ -25,6 +25,12 @@ NeetworkEngineerSato
 78856616+NeetworkEngineerSato@users.noreply.github.com
 ```
 
+## Git
+
+```text
+git checkout --orphan orphan
+```
+
 ## 書籍自炊
 
 Imagemagick + PowerShell
