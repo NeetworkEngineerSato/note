@@ -199,9 +199,9 @@ winget install -e --id Meltytech.Shotcut
 
 ## OCW
 
-サイボウズ 2021 年のエンジニア新人研修の講義資料を公開しました
+サイボウズ 2022 年のエンジニア新人研修の講義資料を公開しました
 
-<https://blog.cybozu.io/entry/2021/07/20/100000>
+<https://blog.cybozu.io/entry/2022/06/23/170000>
 
 ## acrobat 設定
 
