@@ -203,6 +203,10 @@ winget install -e --id Meltytech.Shotcut
 
 <https://blog.cybozu.io/entry/2022/06/23/170000>
 
+東京大学における「Python プログラミング入門」の教材を提供する公開レポジトリ．
+
+<https://github.com/UTokyo-IPP/utokyo-ipp.github.io>
+
 ## acrobat 設定
 
 一般
