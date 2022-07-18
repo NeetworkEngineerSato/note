@@ -207,6 +207,10 @@ winget install -e --id Meltytech.Shotcut
 
 <https://github.com/UTokyo-IPP/utokyo-ipp.github.io>
 
+有名企業のエンジニア向け研修資料まとめ
+
+<https://qiita.com/SMAC/items/f3268b311e11d5b821c0>
+
 ## acrobat 設定
 
 一般
