@@ -207,6 +207,10 @@ winget install -e --id Meltytech.Shotcut
 
 <https://github.com/UTokyo-IPP/utokyo-ipp.github.io>
 
+gcchaan/研修資料まとめ.md
+
+<https://gist.github.com/gcchaan/02f4746a323acac4095c30e0783a3912>
+
 有名企業のエンジニア向け研修資料まとめ
 
 <https://qiita.com/SMAC/items/f3268b311e11d5b821c0>
