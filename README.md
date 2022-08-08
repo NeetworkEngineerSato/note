@@ -94,6 +94,14 @@ magick *.png -layers merge out.png
 ( (Get-Date).Ticks - $a) / 10000000
 ```
 
+## Imagemagick
+
+avif を jpg に変換する PowerShell
+
+```text
+magick *.avif -set filename:f "%t" "%[filename:f].jpg"
+```
+
 ## React
 
 ### material
