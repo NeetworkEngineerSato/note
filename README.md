@@ -172,7 +172,9 @@ DI
 
 ## winget
 
-winget install -e --id Adobe.Acrobat.Reader.64-bit
+````text
+winget export ./winget-export.json
+```
 
 ```text
 winget install -e --id Amazon.Kindle
@@ -195,7 +197,7 @@ winget install -e --id OpenJS.NodeJS.LTS
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id calibre.calibre
 winget install -e --id Adobe.Acrobat.Reader.64-bit
-```
+````
 
 winget install -e --id Meltytech.Shotcut
 
