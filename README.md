@@ -68,6 +68,12 @@ ForEach-Object {
 1..100 | ForEach-Object { magick 1.jpg -quality $_ "quality[${_}].jpg" ; Write-Progress " " -Status $_ }
 ```
 
+pdf
+
+```text
+magick *.jpg `(tmp`).pdf
+```
+
 ```text
 
 # ----------------------------------------
