@@ -71,6 +71,10 @@ ForEach-Object {
 pdf
 
 ```text
+magick *.png `(tmp`).pdf
+```
+
+```text
 magick *.jpg `(tmp`).pdf
 ```
 
